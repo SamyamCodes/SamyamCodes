@@ -7,6 +7,9 @@ Electrical & Electronics Engineering Undergrad student at Kathmandu University.
      Email: samyamshrestha48@gmail.com
 ⚡Fun fact: Empty Mind, Devil's Workshop
 
+
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=SamyamCodes&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=SamyamCodes&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 <!--
 **SamyamCodes/SamyamCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
